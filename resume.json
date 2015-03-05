@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "Maxime Ailloud",
+    "picture": "http://www.gravatar.com/avatar/f736c99a6d76bf6133d7b67fe1c2f7de.png",
+    "email": "maxime.ailloud@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "Passionné de nouvelles technologies et de développement web j'aime mettre à profit ces deux passions dans mon travail.\n\nAdepte de l'Open Source il me tient à cœur d'ouvrir le plus possible les sources de tout travail effectué.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lyon, France",
+      "countryCode": "FR",
+      "region": "Rhône-Alpes"
+    },
+    "profiles": [{
+      "network": "Twitter",
+      "username": "mailloud",
+      "url": "https://twitter.com/mailloud"
+    }]
+  },
+  "work": [
+    {
+      "company": "Ecole Centrale de Lyon",
+      "position": "Développeur Web",
+      "website": "http://learninglabeducation.com/",
+      "startDate": "2013-05-01",
+      "summary": "Participation au développement Open Source de la nouvelle version de Claroline (https://github.com/claroline/Claroline), une plateforme dédiée à l’apprentissage et au travail collaboratif en ligne.",
+      "highlights": []
+    },
+    {
+      "company": "Lacompany",
+      "position": "Développeur Web",
+      "website": "http://www.lacompany.fr/",
+      "startDate": "2012-10-01",
+      "summary": "Développement d'applications web PHP sous Symfony(1.4/2), Silex.\nDéveloppement d'une application chrome avec utilisation d'AngularJS et de base de données IndexedDB.",
+      "highlights": [],
+      "endDate": "2013-03-01"
+    },
+    {
+      "company": "PMSIpilot",
+      "position": "Développeur Web",
+      "website": "https://www.pmsipilot.com/",
+      "startDate": "2010-10-01",
+      "summary": "Développement PHP sous Symfony (1.4 & 2) de logiciels dédiés au milieu hospitalier.\nDéveloppement d'API métier.",
+      "highlights": [],
+      "endDate": "2012-09-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Université Claude Bernard (Lyon I)",
+      "studyType": "Master MIAGE",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Université Claude Bernard (Lyon I)",
+      "studyType": "Licence MIAGE",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2008-01-01"
+    },
+    {
+      "institution": "Insitution des chartreux",
+      "area": "Option développeur d'applications",
+      "studyType": "BTS Informatique de Gestion",
+      "startDate": "2006-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2007-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Apache",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML 5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "OOP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "E-Learning",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Programmation web",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "references": [],
+  "languages": [
+    {
+      "language": "Anglais",
+      "fluency": ""
+    }
+  ],
+  "volunteer": []
+}
