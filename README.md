@@ -1,2 +1,2 @@
 # cv
-My curriculum vitae.
+My curriculum vitae using https://jsonresume.org/.
