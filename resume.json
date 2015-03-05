@@ -51,10 +51,10 @@
     {
       "institution": "Université Claude Bernard (Lyon I)",
       "studyType": "Master MIAGE",
-      "startDate": "2007-01-01",
+      "startDate": "2008-01-01",
       "gpa": "",
       "courses": [],
-      "endDate": "2008-01-01"
+      "endDate": "2010-01-01"
     },
     {
       "institution": "Université Claude Bernard (Lyon I)",
@@ -76,84 +76,19 @@
   ],
   "skills": [
     {
-      "name": "Git",
+      "name": "Développement",
       "level": "",
-      "keywords": []
+      "keywords": ["git", "Symfony", "PHP", "Apache", "MySQL", "JavaScript", "jQuery", "CSS", "HTML", "AngularJs"]
     },
     {
-      "name": "Symfony",
+      "name": "Outils de test",
       "level": "",
-      "keywords": []
+      "keywords": ["PHPUnit", "Behat", "Atoum"]
     },
     {
-      "name": "PHP",
+      "name": "Méthodologie de travail",
       "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Apache",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "MySQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "HTML 5",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Web Development",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "OOP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "E-Learning",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Programmation web",
-      "level": "",
-      "keywords": []
+      "keywords": ["SCRUM", "TDD", "BDD"]
     }
   ],
   "references": [],
