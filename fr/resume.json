@@ -14,43 +14,60 @@
       "countryCode": "FR",
       "region": "Rhône-Alpes"
     },
-    "profiles": [{
-      "network": "Twitter",
-      "username": "mailloud",
-      "url": "https://twitter.com/mailloud"
-    }]
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "mailloud",
+        "url": "https://twitter.com/mailloud"
+      },
+      {
+        "network": "Github",
+        "username": "maxailloud",
+        "url": "https://github.com/maxailloud"
+      }
+    ]
   },
   "work": [
     {
       "company": "Ecole Centrale de Lyon",
       "position": "Développeur Web",
-      "website": "http://learninglabeducation.com/",
+      "website": "http://claroline.net/",
       "startDate": "2013-05-01",
       "summary": "Participation au développement Open Source de la nouvelle version de Claroline (https://github.com/claroline/Claroline), une plateforme dédiée à l’apprentissage et au travail collaboratif en ligne.",
-      "highlights": []
+      "highlights": [
+        "Développement Symfony2 + AngularJs."
+      ]
     },
     {
       "company": "Lacompany",
       "position": "Développeur Web",
       "website": "http://www.lacompany.fr/",
       "startDate": "2012-10-01",
-      "summary": "Développement d'applications web PHP sous Symfony(1.4/2), Silex.\nDéveloppement d'une application chrome avec utilisation d'AngularJS et de base de données IndexedDB.",
-      "highlights": [],
-      "endDate": "2013-03-01"
+      "summary": "Lacompany est un studio de création digitale et de développement d'applications mobiles, web, iOS et Android.\nDepuis 2008, Lacompany met son expertise au service d'entreprises qui ont besoin d’être accompagnées de la conception à la réalisation de leur application. ",
+      "endDate": "2013-04-01",
+      "highlights": [
+        "Développement d'applications web PHP sous Symfony(1.4/2), Silex.",
+        "Développement d'une application chrome avec AngularJS et base de données IndexedDB."
+      ]
     },
     {
       "company": "PMSIpilot",
       "position": "Développeur Web",
       "website": "https://www.pmsipilot.com/",
       "startDate": "2010-10-01",
-      "summary": "Développement PHP sous Symfony (1.4 & 2) de logiciels dédiés au milieu hospitalier.\nDéveloppement d'API métier.",
-      "highlights": [],
-      "endDate": "2012-09-01"
+      "summary": "Le groupe PMSIpilot conçoit, édite et distribue des logiciels étudiés spécialement pour les établissements de santé.",
+      "endDate": "2012-09-01",
+      "highlights": [
+        "Développement PHP sous Symfony (1.4 & 2)",
+        "Développement d'API métier",
+        "Mise en place de processus qualité"
+      ]
     }
   ],
   "education": [
     {
       "institution": "Université Claude Bernard (Lyon I)",
+      "area": "Maîtrise Informatique Appliquée à la Gestion des Entreprises",
       "studyType": "Master MIAGE",
       "startDate": "2008-01-01",
       "gpa": "",
@@ -90,6 +107,33 @@
       "name": "Méthodologie de travail",
       "level": "",
       "keywords": ["SCRUM", "TDD", "BDD"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Lectures",
+      "keywords": [
+        "Science-fiction",
+        "Médiéval-fantastique"
+      ]
+    },
+    {
+      "name": "Cinéma",
+      "keywords": [
+        "Science-fiction",
+        "Médiéval-fantastique",
+        "Suspense",
+        "Comédie",
+        "Film d'animation"
+      ]
+    },
+    {
+      "name": "Jeux",
+      "keywords": [
+        "Jeux de rôle",
+        "Jeux vidéo",
+        "Jeux de société"
+      ]
     }
   ],
   "references": [],
