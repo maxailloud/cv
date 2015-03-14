@@ -5,14 +5,14 @@ My curriculum vitae using https://jsonresume.org/.
 
  > sudo npm install -g resume-cli
  
- # Usage
+# Usage
  
- Go to the directory for the language.
+Go to the directory for the language.
  
- HTML format:
+HTML format:
  
  > resume export --theme kendall resume.html
  
- PDF format:
+PDF format:
  
  > resume export --theme kendall-fix resume.pdf
