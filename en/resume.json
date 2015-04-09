@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Maxime Ailloud",
-    "label": "Développeur",
+    "label": "Developer",
     "picture": "http://www.gravatar.com/avatar/f736c99a6d76bf6133d7b67fe1c2f7de.png",
     "email": "maxime.ailloud@gmail.com",
     "phone": "",
     "website": "",
-    "summary": "Passionné de nouvelles technologies et de développement web j'aime mettre à profit ces deux passions dans mon travail.\n\nAdepte de l'Open Source il me tient à cœur d'ouvrir le plus possible les sources de tout travail effectué.",
+    "summary": "Software developer specialize in web technologies. PHP and Javascript enthousiast. Open Source enthousiast.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -30,62 +30,54 @@
   "work": [
     {
       "company": "Ecole Centrale de Lyon",
-      "position": "Développeur Web",
+      "position": "Web developer",
       "website": "http://claroline.net/",
       "startDate": "2013-05-01",
-      "summary": "Participation au développement Open Source de la nouvelle version de Claroline (https://github.com/claroline/Claroline), une plateforme dédiée à l’apprentissage et au travail collaboratif en ligne.",
+      "summary": "Web development of http://claroline.net/ with PHP, Symfony and AngularJs. Claroline is an Open Source software to easily deploy a dedicated learning and online collaboration platform. Ecole Centrale of Lyon is an engineer university.",
       "highlights": [
-        "Développement Symfony2 + AngularJs."
+        "Symfony2 + AngularJs."
       ]
     },
     {
       "company": "Lacompany",
-      "position": "Développeur Web",
+      "position": "Web developer",
       "website": "http://www.lacompany.fr/",
       "startDate": "2012-10-01",
-      "summary": "Digital makers and production team based in Paris and Lyon, France.",
+      "summary": "Working remote for 6 month for company LaCompany. Web application development with PHP, Symfony(1.4/2), Silex for sale company and a Google Chrome application with AngularJS and IndexedDB for health industry.",
       "endDate": "2013-04-01",
       "highlights": [
-        "Développement d'applications web PHP sous Symfony(1.4/2), Silex.",
-        "Développement d'une application chrome avec AngularJS et base de données IndexedDB."
+        "Symfony(1.4/2), Silex.",
+        "Google chrome application with AngularJS and IndexedDB database."
       ]
     },
     {
       "company": "PMSIpilot",
-      "position": "Développeur Web",
+      "position": "Web developer",
       "website": "https://www.pmsipilot.com/",
       "startDate": "2010-10-01",
-      "summary": "Le groupe PMSIpilot conçoit, édite et distribue des logiciels étudiés spécialement pour les établissements de santé.",
+      "summary": "Development with PHP and Symfony (1.4 et 2) for company PMSIPilot. Application for hospital management. API creation, unit and functionnal testing, code review, SCRUM team management. Open Source participation.",
       "endDate": "2012-09-01",
       "highlights": [
-        "Développement PHP sous Symfony (1.4 & 2)",
-        "Développement d'API métier",
-        "Mise en place de processus qualité"
+        "Symfony (1.4 & 2)",
+        "API",
+        "Quality process"
       ]
     }
   ],
   "education": [
     {
-      "institution": "Université Claude Bernard (Lyon I)",
-      "area": "Maîtrise Informatique Appliquée à la Gestion des Entreprises",
-      "studyType": "Master MIAGE",
+      "institution": "Claude Bernard University (Lyon I)",
+      "area": "Computer science",
+      "studyType": "Master's degree",
       "startDate": "2008-01-01",
       "gpa": "",
       "courses": [],
       "endDate": "2010-01-01"
     },
     {
-      "institution": "Université Claude Bernard (Lyon I)",
-      "studyType": "Licence MIAGE",
-      "startDate": "2007-01-01",
-      "gpa": "",
-      "courses": [],
-      "endDate": "2008-01-01"
-    },
-    {
       "institution": "Insitution des chartreux",
-      "area": "Option développeur d'applications",
-      "studyType": "BTS Informatique de Gestion",
+      "area": "Software developer option",
+      "studyType": "Two-year technical degree",
       "startDate": "2006-01-01",
       "gpa": "",
       "courses": [],
@@ -94,53 +86,57 @@
   ],
   "skills": [
     {
-      "name": "Développement",
+      "name": "Development",
       "level": "",
       "keywords": ["git", "Symfony", "PHP", "Apache", "MySQL", "JavaScript", "jQuery", "CSS", "HTML", "AngularJs"]
     },
     {
-      "name": "Outils de test",
+      "name": "Test tools",
       "level": "",
       "keywords": ["PHPUnit", "Behat", "Atoum"]
     },
     {
-      "name": "Méthodologie de travail",
+      "name": "Work methods",
       "level": "",
       "keywords": ["SCRUM", "TDD", "BDD"]
     }
   ],
   "interests": [
     {
-      "name": "Lectures",
+      "name": "Readings",
       "keywords": [
         "Science-fiction",
-        "Médiéval-fantastique"
+        "Fantasy"
       ]
     },
     {
-      "name": "Cinéma",
+      "name": "Cinema",
       "keywords": [
         "Science-fiction",
-        "Médiéval-fantastique",
-        "Suspense",
-        "Comédie",
-        "Film d'animation"
+        "Fantasy",
+        "Suspens",
+        "Comedy",
+        "Animated movie"
       ]
     },
     {
-      "name": "Jeux",
+      "name": "Games",
       "keywords": [
-        "Jeux de rôle",
-        "Jeux vidéo",
-        "Jeux de société"
+        "Role-playing games",
+        "Video games",
+        "Board games"
       ]
     }
   ],
   "references": [],
   "languages": [
     {
-      "language": "Anglais",
-      "fluency": ""
+      "language": "French",
+      "fluency": "native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "working knowledge"
     }
   ],
   "volunteer": []
