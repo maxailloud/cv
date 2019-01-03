@@ -29,10 +29,24 @@
   },
   "work": [
     {
+      "company": "Chargifi",
+      "position": "Full-Stack Developer",
+      "website": "https://chargifi.com/",
+      "startDate": "2015-11-16",
+      "summary": "Development with PHP, Symfony and Angular of the Chargifi's web platform. I handle the reworking of the customer's platform from AngularJs to Angular 2",
+      "highlights": [
+        "Symfony2",
+        "Angular 2",
+        "API",
+        "Remote"
+      ]
+    },
+    {
       "company": "Ecole Centrale de Lyon",
       "position": "Web developer",
       "website": "http://claroline.net/",
       "startDate": "2013-05-01",
+      "endDate": "2015-10-30",
       "summary": "Web development of http://claroline.net/ with PHP, Symfony and AngularJs. Claroline is an Open Source software to easily deploy a dedicated learning and online collaboration platform. Ecole Centrale of Lyon is an engineer university.",
       "highlights": [
         "Symfony2 + AngularJs."
